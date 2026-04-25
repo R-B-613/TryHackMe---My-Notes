@@ -14,7 +14,7 @@ The framework was established due to the difficulty of identifying security weak
 Stages of a technique used by the red team:
   1. Reconnaissance - Obtain information on the target (Harvesting emails, OSINT)
   2. Weaponization - Combine the objective with an exploit. Commonly results in a deliverable payload (Exploit with backdoor, malicious office document)
-  3. Delivery - How will the weaponized function be delivered to the target	(Email, web, USB)
+  3. Delivery - How the weaponized function will be delivered to the target	(Email, web, USB)
   4. Exploitation - Exploit the target's system to execute code	(MS17-010, Zero-Logon, etc.)
   5. Installation - Install malware or other tooling	(Mimikatz, Rubeus, etc.)
   6. Command & Control - Control the compromised asset from a remote central controller	(Empire, Cobalt Strike, etc.)
