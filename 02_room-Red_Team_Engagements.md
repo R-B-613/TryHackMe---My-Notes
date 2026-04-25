@@ -4,14 +4,14 @@ link: https://tryhackme.com/room/redteamengagements?utm_campaign=social_share&ut
 
 Summary:
 
-Quantification of campaign plans into documents and preparation for a successful Red Team engagement – Planning Phase
+Translating of campaign plans into documents and preparation for a successful Red Team engagement – Planning Phase
 Objective #1: Meet the client's goals.
 Planning and documentation are critical for the success of the engagement!
 
 In this chapter, we went over the information that needs to be summarized for the Red Team operation in order to succeed in the mission.
 Among other things, I reviewed the components and functions of a Red Team engagement, proper engagement planning based on needs and resources,
 and time-frame plans. I learned that it is necessary to clearly summarize the client’s objectives and the Red Team boundaries,
-and to write down what the client’s goals are and the areas that are off-limits or allowed to touch.
+and to write down what the client’s goals are and the areas that are off-limits or in-scope.
 
 These are legal documents:
 I saw an example of a RoE document, i.e., Rules of Engagement.
